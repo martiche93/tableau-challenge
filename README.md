@@ -17,7 +17,7 @@ As expected, there is a decrease in trip rides with the colder season, but there
 
 3. Top Ten Analysis
 Pershing Square North is the most popular "Start" and "Stop" Station. Top four Stations are the same across the board.
-1[Top Ten Analysis](Images/top_ten.png)
+![Top Ten Analysis](Images/top_ten.png)
 
 ## Rubric
 
